@@ -8,7 +8,7 @@ Jupiter notebooks for Solid State Physics courses at EPFL
 - [ ] Electromagnetic waves
 - [ ] reciprocal space 
 
-## To check the pachages installed:
+## To check the packages installed:
 
 ```python
 import pip
