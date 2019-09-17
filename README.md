@@ -10,16 +10,23 @@ Jupiter notebooks for Solid State Physics courses at EPFL
 
 ------
 
-- [ ] Chapter 1: Velocity and current density
-
-- [ ] Chapter 1: equations of motion (eqs. 1.9 - 1.10) 
-- [ ] Hall effect
-- [ ] Born- von Karman boundary conditions : particle in 1D box
-- [ ] illustration of the Fermi-Dirac distribution (slider T vs. width)
-- [ ] illustration of density of states (would be nice also to show dependence on the dimensionality)
-- [ ] illustration of reciprocal space and the Brillouin zone in 2D (draft version exists); 
+- [ ] Chapter 1: Velocity and current density(lower)
+- [ ] Chapter 1: equations of motion (eqs. 1.9 - 1.10) (L)
+- [ ] Hall effect(Clas-LOW)
+- [ ] 1.Dielectric constants sigma+epsilon: plot the functions  Drude+Insulator  (Regular)
+- [ ] 2.Born- von Karman boundary conditions : particle in 1D box+ (appendixA--Reciprocal lattice(R) (k-states lattice)
+      - [ ]  (appendixA--illustration of reciprocal space and the Brillouin zone in 2D (draft version exists); 
+      - [ ] illustrations for understanding central equation (k vs. G, etc.)
+      - [ ]  (appendixA--1.Real ---> Reciprocal
+      - [ ]  (appendixA--2Reciprocal vs k-space
+      - [ ]  (appendixA--3.Real/reciprocal + diffraction(x) 
+      - [ ] 4.Bravis/nonbravis
+- [ ] 2.Density of states: 1D -- even 2d and 3d (R) illustration of density of states (would be nice also to show dependence on the dimensionality)
+- [ ] 2.illustration of the Fermi-Dirac distribution (slider T vs. width) (R)
+- [ ] 2.Illustration of cv as function of energy integrant (Demonstrate that states close to ef contributes)
+- [ ] ​
 - [ ] band structure of free electrons in weak periodic potential; illustration of gaps
-- [ ] illustrations for understanding central equation (k vs. G, etc.)
+- [ ] ​
 - [ ] tight-binding band structure of a 1D chain of identical atoms;
 - [ ] tight-binding band structure of a 1D chain with alternating on-site potentials or/and transfer integrals;
 - [ ] band structures of 2D lattices (triangular, square, honeycomb, kagome, Lieb);
