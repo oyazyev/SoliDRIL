@@ -11,7 +11,7 @@ The (Lower) ones are not urgent. (regular) or (R) are what we discussed
 
 - [ ] Hall effect(Clas-LOW)
 
-- [ ] 1.Dielectric constants sigma+epsilon: plot the functions  Drude+Insulator  (Regular)
+- [x] 1.Dielectric constants sigma+epsilon: plot the functions  Drude+Insulator  (Regular)
 
 - [ ] 2.Born- von Karman boundary conditions : particle in 1D box+ (appendixA--Reciprocal lattice(R) (k-states lattice)
       - [ ] (appendixA--illustration of reciprocal space and the Brillouin zone in 2D (draft version exists); 
@@ -21,9 +21,9 @@ The (Lower) ones are not urgent. (regular) or (R) are what we discussed
       - [ ] (appendixA--3.Real/reciprocal + diffraction(x) 
       - [ ] 4.Bravis/nonbravis
 
-- [ ] 2.Density of states: 1D -- even 2d and 3d (R) illustration of density of states (would be nice also to show dependence on the dimensionality)
+- [x] 2.Density of states: 1D -- even 2d and 3d (R) illustration of density of states (would be nice also to show dependence on the dimensionality)
 
-- [ ] 2.illustration of the Fermi-Dirac distribution (slider T vs. width) (R)
+- [x] 2.illustration of the Fermi-Dirac distribution (slider T vs. width) (R)
 
 - [ ] 2.Illustration of cv as function of energy integrant (Demonstrate that states close to ef contributes)
 
